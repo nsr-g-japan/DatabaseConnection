@@ -1,0 +1,4 @@
+
+azure_storage_connectionstring: "DefaultEndpointsProtocol=https;AccountName=setuptest1906;AccountKey=tSVdeBiewtJ3K1F7qMzc1FBAdqDkcj+tcCdtYsbjGlnM0qQA/fDP758U5cevGvKolBFAl6TxC4CapVwCVcACnA==;EndpointSuffix=core.windows.net"
+container_name: "testcontainer"
+source_folder: "D:\\testcontainerlocal"
